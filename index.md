@@ -3,8 +3,6 @@
 ## About me
 ` I am a Java Developer with a passion for design as much as development. I see the beauty in everything simple `
 
-## Whats new?
-` I am currently working at a financial institution on web services projects. `
 
 
 ## In development
