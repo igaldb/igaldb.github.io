@@ -1,8 +1,8 @@
 # Welcome to my Site!
-<p align="center">
+
   <img src="https://octodex.github.com/images/yaktocat.png" width="250">
 
-</p>
+
 
 I Will be posting all my new and exciting projects to share with the world. I am a Java Developer who not only enjoys coding as a career but as a hobby as well. Please check out all my cool stuff and let me know what you think.
 
