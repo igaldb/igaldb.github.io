@@ -1,15 +1,14 @@
+  <img style="float: left;" src="https://octodex.github.com/images/yaktocat.png" width="250" >I Will be posting all my new and exciting projects to share with the world. 
+
 # Welcome to my Site!
 
 
-  <img style="float: left;" src="https://octodex.github.com/images/yaktocat.png" width="250" >I Will be posting all my new and exciting projects to share with the world. 
-
-
-
-
+## About me
+` I am a Java Developer with a passion for design as much as development. I see the beauty in everything simple `
 
 ## Whats new?
-
 ` I am currently working at a financial institution on web services projects. `
+
 
 ## In development
 
