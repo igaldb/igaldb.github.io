@@ -5,7 +5,7 @@
 
 
 
-## In development
+** In development **
 
 # Thrillio: 
 ## A new and exciting social bookmarking app
