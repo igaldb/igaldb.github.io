@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+### Welcome to my Site!
 
-You can use the [editor on GitHub](https://github.com/igaldb/igaldb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I Will be posting all my new and exciting projects to share with the world. I am a Java Developer who not only enjoys coding as a career but as a hobby as well. Please check out all my cool stuff and let me know what you think.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Whats new?
 
-### Markdown
+I am currently working at a financial institution on web services projects. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## In development
+
+# Thrillio: A new and exciting social bookmarking app
+
+Be sure to check back soon for the repository
 
 ```markdown
 Syntax highlighted code block
