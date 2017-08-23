@@ -19,21 +19,19 @@
 Be sure to check back soon for the repository
 
 ```markdown
-Syntax highlighted code block
+Class Awesome{
 
-# Header 1
-## Header 2
-### Header 3
+  public static void main {
+    Awesome yourAwesome = beAwesome();
+  }
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+  public Awesome beAwesome()
+  {
+    Awesome awesome = new Awesome("Im Awesome");
+    return new Awesome();
+  }
+}
+  
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
