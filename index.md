@@ -9,7 +9,7 @@
 
 ## Whats new?
 
-I am currently working at a financial institution on web services projects. 
+` I am currently working at a financial institution on web services projects. `
 
 ## In development
 
