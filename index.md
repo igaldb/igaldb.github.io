@@ -1,7 +1,7 @@
   <img style="float: left;" src="https://octodex.github.com/images/yaktocat.png" width="250" >
 # Welcome to my Site!
 ## About me
-` I am a Java Developer with a passion for design as much as development. I see the beauty in everything simple `
+*I am a Java Developer with a passion for design as much as development. I see the beauty in everything simple* 
 
 
 
